@@ -3,8 +3,8 @@ title:          Le Quang Long
 bio:            'A short note in my developer life!'
 description:    "This is a personal blog I am writing to note some experiences in my developer life."
 picture:        'assets/img/profile.png'
-locale:         en_US
-url:            https://alperenbozkurt.github.io/JBlog
+locale:         ja_JP
+url:            https://lequanglong.github.io
 
 
 # Jekyll
