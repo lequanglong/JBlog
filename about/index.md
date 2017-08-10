@@ -1,22 +1,23 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, JBlog]
+title: About me
+tags: [about, me, lequanglong, developer-life]
 date: 2016-03-21
 ---
 
-![jekyll Image](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png)
+![jekyll Image](https://github.com/lequanglong/lequanglong.github.io/raw/master/assets/img/about-me.png)
 {: .image-pull-right}
 
-<center><b>JBlog</b> is a simple jekyll theme.</center>
+<center><b>JBlog</b> A litle about me .</center>
 
 ## About
 
-I have used this theme in my own php and ruby blogs. And there are some shortcomings. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
+My name is Le Quang Long.
+I come from Vietnam. I am living in Japan.
+Now, I am a developer at Openhouse company as a coder, devops, mobile developer.
+I want to make a friend with everyone. 
+Please feel free add me via my SNS on home page.
 
 
-If you like this theme or using it, please give a **star** for motivation.
+If you like my posts please leave with a comment:).
 
-You want to **use it?**      
-
-[Install JBlog](https://github.com/alperenbozkurt/JBlog){: .btn .btn-info}
