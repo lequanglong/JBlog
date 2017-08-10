@@ -8,7 +8,7 @@ date: 2016-03-21
 ![jekyll Image](https://github.com/lequanglong/lequanglong.github.io/raw/master/assets/img/about-me.png)
 {: .image-pull-right}
 
-<center><b>JWelcome to my world!</b> A litle about me .</center>
+<center><b>Welcome to my world!</b> A litle about me .</center>
 
 ## About
 
