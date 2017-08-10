@@ -19,7 +19,7 @@ Please feel free add me via my SNS.
 
 <a href="https://www.facebook.com/kaka.ruchi.3" class="btn btn-info">Facebook</a>
 <a href="https://twitter.com/lequang_long" class="btn btn-info">Twitter</a>
-<a href="https://www.youtube.com/channel/UCmamWDEYsNk7Zr_BOlASztQ" class="btn btn-success">Youtube</a>
+<a href="https://www.youtube.com/channel/UCmamWDEYsNk7Zr_BOlASztQ" class="btn btn-info">Youtube</a>
 <a href="https://github.com/lequanglong" class="btn btn-info">Github</a>
 
 If you like my posts please leave with a comment:).
