@@ -10,9 +10,8 @@ date: 2016-03-21
 
 <center><b>Welcome to my world!</b> <br>A litle about me .</center>
 
-## About me
+## My name is Le Quang Long
 
-My name is Le Quang Long.
 I come from Vietnam. I am living in Japan.
 Now, I am a developer at Openhouse company as a coder, devops, mobile developer.
 I want to make a friend with everyone. 
