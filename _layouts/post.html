@@ -1,6 +1,27 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
+  <head>
+    <style>
+      .PageNavigation {
+        font-size: 14px;
+        display: block;
+        width: auto;
+        overflow: hidden;
+      }
+
+      .PageNavigation a {
+        display: block;
+        width: 50%;
+        float: left;
+        margin: 1em 0;
+      }
+
+      .PageNavigation .next {
+        text-align: right;
+      }
+    </style>
+  </head>
   <body>
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript">
@@ -76,6 +97,14 @@
         {% include scripts.html %}
         {% include disqus_comments.html %}
       </div>
+    </div>
+    <div class="PageNavigation">
+      {% if page.previous.url %}
+      <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+      {% endif %}
+      {% if page.next.url %}
+      <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+      {% endif %}
     </div>
     {% include footer.html %}
   </body>
