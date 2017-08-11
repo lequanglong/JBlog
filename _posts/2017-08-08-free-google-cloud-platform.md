@@ -1,5 +1,7 @@
 
 {% include toc.html %}
+* TOC
+{:toc}
 
 # 1. Create an account to use Google Cloud Platform (GCP) #
 
