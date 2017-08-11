@@ -9,13 +9,6 @@
             display: block;
             width: auto;
             overflow: hidden;
-            content: "";
-            height: 100px;
-            margin-top: -31px;
-            border-style: solid;
-            border-color: #8c8b8b;
-            border-width: 0 0 1px 0;
-            border-radius: 20px;
         }
 
         .PageNavigation a {
@@ -27,6 +20,25 @@
 
         .PageNavigation .next {
             text-align: right;
+        }
+
+        hr.style18 {
+            height: 30px;
+            border-style: solid;
+            border-color: #8c8b8b;
+            border-width: 1px 0 0 0;
+            border-radius: 20px;
+        }
+
+        hr.style18:before {
+            display: block;
+            content: "";
+            height: 30px;
+            margin-top: -31px;
+            border-style: solid;
+            border-color: #8c8b8b;
+            border-width: 0 0 1px 0;
+            border-radius: 20px;
         }
     </style>
 </head>
@@ -102,6 +114,7 @@
                 <div class="content">
                     {{ content }}
                 </div>
+                <hr class="style18">
                 <div class="PageNavigation">
                     {% if page.previous.url %}
                     <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a> {% endif %} {% if page.next.url
