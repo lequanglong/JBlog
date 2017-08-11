@@ -1,4 +1,6 @@
 
+{% include toc.html %}
+
 # 1. Create an account to use Google Cloud Platform (GCP) #
 
 If you have already a Google account, you can jump to step 2.
@@ -25,6 +27,8 @@ Click on SIGN UP FOR FREE TRIAL.
 
  You have to fill your information of credit card: <br>
  ![alt text](https://farm5.staticflickr.com/4420/36096552250_47f1549f3e_o.jpg "Accep the term")
+
+ <br>
  Don't worry! The Google will not auto charge. 
  You will have 300$ after you finish this step.
 
