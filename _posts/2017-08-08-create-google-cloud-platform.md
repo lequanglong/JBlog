@@ -6,6 +6,8 @@ excerpt: "Create an account to use Google Cloud Platform"
 tags: [Google Cloud Platform, GCP]
 ---
 
+{% include toc.html %}
+
 # 1. Create an account to use Google Cloud Platform (GCP) 
 
 If you have already a Google account, you can jump to step 2.
