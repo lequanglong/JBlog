@@ -4,6 +4,7 @@ title: "Create an account to use Google Cloud Platform"
 date: 2017-08-08
 excerpt: "Create an account to use Google Cloud Platform."
 tags: [Google Cloud Platform]
+blog: true
 ---
 
 # 1. Create an account to use Google Cloud Platform (GCP) 
