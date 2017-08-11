@@ -42,3 +42,7 @@ Click on SIGN UP FOR FREE TRIAL.
  > We've given you $300 in free trial credit to spend. If you run out of credit, don't worry, you won't be billed until you give your permission.
 
 Click Got It button to finish.
+
+That's all.
+
+Now you can create a new project to use GCP.
