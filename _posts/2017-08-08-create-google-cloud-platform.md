@@ -10,7 +10,7 @@ tags: [Google Cloud Platform, GCP]
 
 # 1. Create an account to use Google Cloud Platform (GCP) 
 
-If you have already a Google account, you can jump to step 2.
+If you have already a Google account, you can jump to [step 2](https://lequanglong.github.io/create-google-cloud-platform/#2-enable-your-google-account-to-use-google-cloud-platform-gcp).
 
 If not, please visit to  [this link ](https://accounts.google.com/SignUp?hl=en) to create a new Google acccount.
 
