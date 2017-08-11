@@ -2,9 +2,8 @@
 layout: post
 title: "Create an account to use Google Cloud Platform"
 date: 2017-08-08
-excerpt: "Create an account to use Google Cloud Platform."
+excerpt: "Create an account to use Google Cloud Platform"
 tags: [Google Cloud Platform, GCP]
-post: true
 ---
 
 # 1. Create an account to use Google Cloud Platform (GCP) 
@@ -22,7 +21,6 @@ Agree the term : <br>
 You need to verify your account before to use.
 
 # 2. Enable your Google Account to use Google Cloud Platform (GCP) 
-{: .no_toc}
 
 Access to this link [this link](http://console.cloud.google.com)
 
