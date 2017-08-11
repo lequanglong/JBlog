@@ -1,9 +1,9 @@
 
-{% include toc.html %}
-* TOC
+- TOC
 {:toc}
 
-# 1. Create an account to use Google Cloud Platform (GCP) #
+# 1. Create an account to use Google Cloud Platform (GCP) 
+{: .no_toc}
 
 If you have already a Google account, you can jump to step 2.
 
@@ -17,7 +17,8 @@ Agree the term : <br>
 
 You need to verify your account before to use.
 
-# 2. Enable your Google Account to use Google Cloud Platform (GCP) #
+# 2. Enable your Google Account to use Google Cloud Platform (GCP) 
+{: .no_toc}
 
 Access to this link [this link](http://console.cloud.google.com)
 
