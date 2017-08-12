@@ -5,6 +5,7 @@ date: 2017-08-08
 excerpt: "Working on GCP with gcloud command line"
 tags: [Google Cloud Platform, GCP, GCE, GAE, Google Compute Engine, Google App Engine, Google Cloud SQL, Google Cloud SDK,gcloud]
 ---
+{% include toc.html %}
 
 # Install Google Cloud SDK
 You can refer [this link](https://cloud.google.com/sdk/docs/) to read full instruction.
