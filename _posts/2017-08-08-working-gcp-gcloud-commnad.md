@@ -36,6 +36,7 @@ If you can not run the gcloud on any location, please check the bash_profile at 
 sudo vi ~/.bash_profile
 ```
 this is my bash_profile file:
+<div>
 ``` bash
 export PATH="/usr/local/mysql/bin:$PATH"
 LUNCHY_DIR=$(dirname `gem which lunchy`)/../extras
@@ -50,6 +51,7 @@ export PATH=/Users/lequanglong/google-cloud-sdk/bin:$PATH
 if [ -f '/Users/lequanglong/google-cloud-sdk/completion.bash.inc' ]; then source '/Users/lequanglong/google-cloud-sdk/completion.bash.inc'; fi
 export PATH=/usr/local/mysql/bin:/Users/lequanglong/google-cloud-sdk/bin /usr/local/bin /usr/bin /bin /usr/sbin /sbin
 ```
+</div>
 Let's play some commands with <b>gcloud</b> command.
 
 + Authentication with your account 
