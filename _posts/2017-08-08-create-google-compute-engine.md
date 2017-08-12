@@ -3,7 +3,7 @@ layout: post
 title: "Create project on Google Compute Engine"
 date: 2017-08-08
 excerpt: "Create project on Google Compute Engine"
-tags: [Google Cloud Platform, GCP,Google Compute Engine]
+tags: [Google Cloud Platform, GCP]
 ---
 
 {% include toc.html %}
@@ -69,7 +69,7 @@ Now, you have a GCE instance. You can use it in to your application.
 Next time, I will try to use it to install LAMP to run Cakephp application.
 
 You can see all the above steps in the video as below : <br>
-[![Create Google Compute Engine Instance](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/UvQ86wl-PtM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UvQ86wl-PtM" frameborder="0" allowfullscreen></iframe>
 
 
 If you like my post, please leave with a comment:).
