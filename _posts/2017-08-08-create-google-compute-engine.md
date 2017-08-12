@@ -10,7 +10,7 @@ tags: [Google Cloud Platform, GCP]
 
 # Create project on Google Cloud Platform (GCP)
 
-If you don't have a Google Accout or your Google Account can not use Google Cloud Platform (GCP), please read [this guide](https://lequanglong.github.io/create-google-cloud-platform/).
+If you don't have a Google Account or your Google Account can not use Google Cloud Platform (GCP), please read [this guide](https://lequanglong.github.io/create-google-cloud-platform/).
 <br>
 If you already have had an account, you access to [this link](http://console.cloud.google.com), login with your account.
 
