@@ -72,3 +72,24 @@ That is all.
 
 
 
+# 2. Fix Cocoapod
+
+Error 1 : 
+```
+/usr/local/bin/pod: bad interpreter: /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/bin: no such file or directory
+```
+Run below command to fix
+```
+$ sudo gem update --system
+$ sudo gem install cocoapods
+```
+Error 2 : 
+```
+ERROR:  While executing gem ... (Errno::EPERM)
+    Operation not permitted @ rb_sysopen - /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/gem
+```
+Run below command to fix
+```
+$ sudo gem update --system -n /usr/local/bin
+$ sudo gem install -n /usr/local/bin cocoapods
+```
